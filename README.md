@@ -33,6 +33,6 @@ Dikembangkan dengan pendekatan **Model-View-Controller (MVC)** menggunakan **PHP
 📘 Catatan
 
 Project ini dibuat sebagai latihan pribadi untuk memahami konsep dasar MVC pada PHP.
-Struktur dan konsep diadaptasi dari tutorial milik Web Programming UNPAS, tanpa beberapa modifikasi dan penyesuaian.
+Struktur dan konsep diadaptasi dari tutorial milik Web Programming UNPAS, tanpa modifikasi.
 
 Tutorial oleh: Sandhika Galih - Web Programming UNPAS
